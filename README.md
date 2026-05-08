@@ -63,3 +63,8 @@ The analysis tests whether PER has a meaningful relationship with salary. The mo
 
 ```bash
 pip install -r requirements.txt
+```
+
+3. Run the notebook cells from top to bottom. The notebook will load the NBA salary dataset, clean the data, add the ESPN Hollinger Player Efficiency Rating values, and prepare the data for analysis.
+4. Use the contract creation tool, find the player you want to build a contract for, and gather their season or career statistics.
+5. Continue to select what contract type you would like; this allows you to make free agent contracts, rookie extensions, and veteran extensions with bird rights. Your final contract with the amount for each year is created depending on your choices with the player's predicted salary.
